@@ -3,7 +3,7 @@
 ### 헤더 : throttle, useMemo, redux
 - 유즈메모와 스로틀은 메모리 누수를 방지하기 위해 사용하였습니다.
 - 리덕스는 로그인시 회원의 닉네임으로 랜더링 시키기 위해 Selector를 사용했습니다.<br>
-![헤더](https://user-images.githubusercontent.com/86910922/146677956-7f94ff3c-84fe-4201-adb9-12e29f3bceec.gif)
+![헤더](https://user-images.githubusercontent.com/86910922/146677956-7f94ff3c-84fe-4201-adb9-12e29f3bceec.gif){:width="200px"}
 
 
 ### 로그인 : redux, router, styled-components, axios
