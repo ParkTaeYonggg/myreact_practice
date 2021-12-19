@@ -30,6 +30,11 @@ export const StyledMainContainer = styled.div`
 `;
 
 export const ContainerBox = styled.div`
+    display: grid;
+    grid-template-rows: 10% 80%;
+    align-items: start;
+    justify-content: center;
+    justify-items: center;
     margin-top: 30px;
     width: 340px;
     height: 310px;

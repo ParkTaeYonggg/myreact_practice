@@ -29,7 +29,7 @@ export default function LoginTags () {
     }
     useEffect(() => {
         if (state.isRequest) {
-            LoginMiddleWare(`/api/login/redux?id=${idPw.id}&pw=${idPw.pw}`,dispatch);
+            LoginMiddleWare(`/api/login/redux?id=${idPw.id}&pw=${idPw.pw}`,dispatch, "login");
         }
     },[state.isRequest])
     // 리듀서 끝
@@ -51,7 +51,8 @@ export default function LoginTags () {
                             type="text"
                             error={false}
                             errorMessage="올바른 아이디 형식을 입력해주세요."
-                            placeholder="아이디를 입력해주세요."/>                
+                            placeholder="아이디를 입력해주세요."
+                            labelName="아이디"/>                
             <StyledInput id="pw"
                             name="pw"
                             value={idPw.pw || ""}
@@ -60,7 +61,8 @@ export default function LoginTags () {
                             type="password"
                             error={false}
                             errorMessage="올바른 비밀번호 형식을 입력해주세요."
-                            placeholder={"비밀번호를 입력해주세요."}/>
+                            placeholder={"비밀번호를 입력해주세요."}
+                            labelName="비밀번호"/>
             <StyledBtn>로그인</StyledBtn>
             <p></p>
             <KakaoLogin/>
@@ -70,7 +72,7 @@ export default function LoginTags () {
 }
 
 
-const LoginTagsWrapper = styled.form`
+export const LoginTagsWrapper = styled.form`
     width: 95%;
     height: 95%;
     display: flex;

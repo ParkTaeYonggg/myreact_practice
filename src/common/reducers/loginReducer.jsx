@@ -1,7 +1,7 @@
 export const LoginRequest = "LOGIN_REQUEST";
 export const LoginSuccess = "LOGIN_SUCCESS";
 export const LoginFailure = "LOGIN_FAILURE";
-
+export const LoginUpdate = "LOGIN_UPDATE";
 const loginState = {
     userInfo: {},
     isRequest: false,
@@ -15,8 +15,20 @@ export const loginReducer = (state = loginState, action) => {
         return action.loginState;
     } else if (action.type === LoginFailure) {
         return action.loginState;
+    } else if (action.type === LoginUpdate) {
+        return action.loginState;
     }
     return state;
+}
+export const action_login_update = (state) => {
+    return {
+        type: LoginUpdate,
+        loginState: {
+            userInfo: state,
+            isRequest: false,
+            isLogin: true,
+        }
+    }
 }
 
 export const action_login_request = () => {

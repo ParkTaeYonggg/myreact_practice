@@ -7,6 +7,7 @@ import AllContainer from "./main/mainContainer";
 import MainLogin from "./main/login/mainLogin";
 import KakaoInga from "./main/login/kakao/kakaoInga";
 import NaverLoginInga from "./main/login/naver/naverLoginInga";
+import MainBanner from "./main/banner/mainBanner";
 
 class App extends React.Component {
     render () {
@@ -18,6 +19,7 @@ class App extends React.Component {
                     <Route path = "/login/page/" component={MainLogin}/>
                     <Route path = "/login/kakao" component={KakaoInga} />
                     <Route path ="/login/naver" component={NaverLoginInga} />
+                    <Route path ="/banner/page/" component={MainBanner}/>
                 </StyledMainContainer>
 
                 <Route path="/" component={Footer}/>

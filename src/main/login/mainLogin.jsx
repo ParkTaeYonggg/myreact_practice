@@ -4,17 +4,27 @@ import { deviceSize, theme } from "../../common/theme";
 import LoginTags from "./loginTags";
 import { useSelector } from "react-redux";
 import AfterLogin from "./afterLogin";
+import loginView from "./login_img/loginView.gif";
 
 export default function MainLogin () {
 const state = useSelector(state => state.loginReducer);
+
     return (
         <MainLoginWrapper>
             {state.isLogin ? <AfterLogin/> : <LoginTags />}
-            <h2>이미지창</h2>
+            <DivTag id="imgDiv"></DivTag>
         </MainLoginWrapper>
     );
 }
 
+export const DivTag = styled.div`
+    width: 95%;
+    height: 400px;
+    border-radius: 15px;
+    background-image: url(${loginView});
+    background-size: 95% 400px;
+    background-repeat: no-repeat;
+`;
 const MainLoginWrapper = styled.div`
     width: 80%;
     height: 400px;
@@ -28,7 +38,7 @@ const MainLoginWrapper = styled.div`
     
     ${deviceSize.tablet} {
         grid-template-columns: 95%;
-        h2{
+        #imgDiv {
             display: none;
         }
     }
