@@ -1,7 +1,7 @@
 # 프로그램 소개
 리액트 라이브러리 연습 후 실적용 해보기 위해 만들어본 결과물입니다. <br>
 ### 헤더 : throttle, useMemo, redux
-- 유즈메모와 스로틀은 랜더링될 때 메모리 누수를 방지하기 위해 사용하였습니다.
+- 스크롤 이벤트 적용하였고, 랜더링될 때 메모리 누수 방지를 위해 유즈메모와 스로틀을 사용하였습니다.<br>
 - 리덕스는 로그인시 회원의 닉네임으로 랜더링 시키기 위해 Selector를 사용했습니다.<br>
 <img src="https://user-images.githubusercontent.com/86910922/146677956-7f94ff3c-84fe-4201-adb9-12e29f3bceec.gif" width="429px" height="429px">
 
