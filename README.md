@@ -16,7 +16,7 @@
 [깃허브 저장소](https://github.com/ParkTaeYonggg/React_basic/tree/master/src/menu)
 - 모바일, 크롬, 사파리, 삼성인터넷 / 태블릿, 모바일, 데스크탑 (보편적 사이즈) 를 고려해서 만드는데 초점을 두었습니다.
 - 클릭 이벤트 별로 컨트롤러 데이터를 가져오도록 구현했습니다.
-- 프롭스를 통해 모달창을 만들어봤습니다.
+- 프롭스를 전달하여 모달창을 만들어봤습니다.
 <img width="100%" height="300px" alt="기기별" src="https://user-images.githubusercontent.com/86910922/146679543-cdde886a-c45f-48da-b3eb-1b51bf8855ab.png">
 <br>
 
