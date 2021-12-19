@@ -15,7 +15,7 @@
 [깃허브 저장소](https://github.com/ParkTaeYonggg/React_basic/tree/master/src/menu)
 - 모바일, 크롬, 사파리, 삼성인터넷 / 태블릿, 모바일, 데스크탑 (보편적 사이즈) 를 고려해서 만드는데 초점을 두었습니다.
 - 클릭 이벤트 별로 컨트롤러 데이터를 가져오도록 구현했습니다.<br>
-<img width="429px" height="429px" alt="기기별" src="https://user-images.githubusercontent.com/86910922/146679543-cdde886a-c45f-48da-b3eb-1b51bf8855ab.png">
+<img width="100%" height="429px" alt="기기별" src="https://user-images.githubusercontent.com/86910922/146679543-cdde886a-c45f-48da-b3eb-1b51bf8855ab.png">
 <br>
 
 <img src="https://user-images.githubusercontent.com/86910922/146680133-ea725f6f-7049-4886-a01c-ec051d2bd8a2.gif" width="429px" height="429px"><img src="https://user-images.githubusercontent.com/86910922/146680138-79e33fb9-22f3-4374-b28e-29569b637fd8.gif" width="429px" heigth="429px">
