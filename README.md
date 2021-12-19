@@ -2,7 +2,11 @@
 리액트 라이브러리 연습 후 실적용 해보기 위해 만들어본 결과물입니다. <br>
 ### 헤더 : throttle, useMemo, redux
 - 유즈메모와 스로틀은 메모리 누수를 방지하기 위해 사용하였습니다.
-- 리덕스는 로그인시 회원의 닉네임으로 랜더링 시키기 위해 Selector를 사용했습니다.
+- 리덕스는 로그인시 회원의 닉네임으로 랜더링 시키기 위해 Selector를 사용했습니다.<br>
+
+
+https://user-images.githubusercontent.com/86910922/146677837-800b84d5-729d-479c-bf98-730d30f44550.mp4
+
 
 
 ### 로그인 : redux, router, styled-components, axios
