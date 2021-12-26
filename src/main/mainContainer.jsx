@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { DivTag } from "./login/mainLogin";
 import styled from "styled-components";
 import StyledLink from "../common/StyledLink";
-import MainBanner from "./banner/mainBanner";
+import MainPayment from "./payment/mainPayment";
 
 export default function AllContainer() {
     return (
@@ -17,7 +17,7 @@ export default function AllContainer() {
             </StyledLink>
             <StyledLink to="/banner/page/">
                 <ContainerBox>
-                    <span>베너</span>
+                    <span>결제</span>
                     <h1>대기중..</h1>
                 </ContainerBox>
             </StyledLink>
