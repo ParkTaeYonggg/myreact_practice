@@ -24,6 +24,9 @@
 <img src="https://user-images.githubusercontent.com/86910922/146680133-ea725f6f-7049-4886-a01c-ec051d2bd8a2.gif" width="429px" height="429px">&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86910922/146680138-79e33fb9-22f3-4374-b28e-29569b637fd8.gif" width="429px" height="429px">
 
 ### todotogether
+##### 아래를 사용하여 만들었음.
+- react, redux, router, sass, lazyLoad, styled-components, useMemo, throttle, component, restAPI, AWS(ec2), axios, babel/webpack ...etc
+
 [깃허브 저장소](https://github.com/akdrhtn1/todotogether)
 
 ##### 로그인 (모바일, 데스크탑)
@@ -47,7 +50,4 @@
 
 ![KakaoTalk_Photo_2022-01-17-02-06-08](https://user-images.githubusercontent.com/86910922/149670139-79ccb5f3-4427-4133-bcb2-68dc990c7a24.gif)
 <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 2 07 17" src="https://user-images.githubusercontent.com/86910922/149670169-5ee2d352-5441-4844-9f9f-23a8f2fc5302.png">
-
-##### 아래를 사용하여 만들었음.
-- react, redux, router, sass, lazyLoad, styled-components, useMemo, throttle, component, restAPI, AWS(ec2), axios, babel/webpack ...etc
 
