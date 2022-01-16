@@ -27,8 +27,7 @@
 [깃허브 저장소](https://github.com/akdrhtn1/todotogether)
 
 ##### 로그인 (모바일, 데스크탑)
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 05" src="https://user-images.githubusercontent.com/86910922/149669909-53cb3cbf-8b2a-4fd3-a783-1d1163407945.png">
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 23" src="https://user-images.githubusercontent.com/86910922/149669904-3eb7740f-9659-4bb7-b8ba-1f99183a3a4e.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 05" src="https://user-images.githubusercontent.com/86910922/149669909-53cb3cbf-8b2a-4fd3-a783-1d1163407945.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 23" src="https://user-images.githubusercontent.com/86910922/149669904-3eb7740f-9659-4bb7-b8ba-1f99183a3a4e.png">
 
 ##### 회원가입 (모바일, 데스크탑)
 
@@ -36,8 +35,8 @@
 
 ##### 나의활동페이지 (모바일, 데스크탑)
 
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 52 00" src="https://user-images.githubusercontent.com/86910922/149669977-5180e157-2a72-4f7e-b67f-bb66cd2038a0.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 51 04" src="https://user-images.githubusercontent.com/86910922/149669982-835bb2e7-9ede-4854-9b64-a2635a2baa7a.png">
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 50" src="https://user-images.githubusercontent.com/86910922/149670000-79cdb025-d9ac-4818-ac03-a6daa99c0f25.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 52 00" src="https://user-images.githubusercontent.com/86910922/149669977-5180e157-2a72-4f7e-b67f-bb66cd2038a0.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 51 04" src="https://user-images.githubusercontent.com/86910922/149669982-835bb2e7-9ede-4854-9b64-a2635a2baa7a.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 50" src="https://user-images.githubusercontent.com/86910922/149670000-79cdb025-d9ac-4818-ac03-a6daa99c0f25.png">
 
 ##### 회원탈퇴 (모바일, 데스크탑)
 
