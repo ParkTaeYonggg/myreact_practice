@@ -32,19 +32,16 @@
 
 ##### 회원가입 (모바일, 데스크탑)
 
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 20" src="https://user-images.githubusercontent.com/86910922/149669948-be2bd936-bf62-416e-a1d0-e5d0324b3e63.png">
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 05" src="https://user-images.githubusercontent.com/86910922/149669949-46d133a1-18d6-47d0-82c4-02d06cf08abc.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 20" src="https://user-images.githubusercontent.com/86910922/149669948-be2bd936-bf62-416e-a1d0-e5d0324b3e63.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 05" src="https://user-images.githubusercontent.com/86910922/149669949-46d133a1-18d6-47d0-82c4-02d06cf08abc.png">
 
 ##### 나의활동페이지 (모바일, 데스크탑)
 
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 52 00" src="https://user-images.githubusercontent.com/86910922/149669977-5180e157-2a72-4f7e-b67f-bb66cd2038a0.png">
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 51 04" src="https://user-images.githubusercontent.com/86910922/149669982-835bb2e7-9ede-4854-9b64-a2635a2baa7a.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 52 00" src="https://user-images.githubusercontent.com/86910922/149669977-5180e157-2a72-4f7e-b67f-bb66cd2038a0.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 51 04" src="https://user-images.githubusercontent.com/86910922/149669982-835bb2e7-9ede-4854-9b64-a2635a2baa7a.png">
 <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 50" src="https://user-images.githubusercontent.com/86910922/149670000-79cdb025-d9ac-4818-ac03-a6daa99c0f25.png">
 
 ##### 회원탈퇴 (모바일, 데스크탑)
 
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 10" src="https://user-images.githubusercontent.com/86910922/149670025-cae79536-cc43-4511-9af1-7346f9d9e8dd.png">
-<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 28" src="https://user-images.githubusercontent.com/86910922/149670027-28932571-e209-4743-81c7-a00abda12953.png">
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 10" src="https://user-images.githubusercontent.com/86910922/149670025-cae79536-cc43-4511-9af1-7346f9d9e8dd.png"><img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 28" src="https://user-images.githubusercontent.com/86910922/149670027-28932571-e209-4743-81c7-a00abda12953.png">
 
 ##### 메인페이지 (모바일, 데스크탑)
 
