@@ -1,11 +1,18 @@
 import React from "react";
 import styled from "styled-components";
 import { deviceSize, theme } from "../../common/theme";
+import PaymentList from "./paymentList";
+import Ts1 from "./ts/ts1";
 
+import Test from "./test";
 export default function MainPayment () {
     return (
         <WrapperDiv>
-            <div>1</div>
+            <div>
+                {/* <PaymentList /> */}
+                {/* <Test/> */}
+                <Ts1 />
+            </div>
             <div>2</div>
             <div>3</div>
             <div>4</div>

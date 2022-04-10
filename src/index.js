@@ -7,12 +7,14 @@ import store from "./common/configureStore";
 import {BrowserRouter} from "react-router-dom";
 
 import reportWebVitals from './reportWebVitals';
-
+import ErrBoundary from "./errorboudary/errBoundary";
 
 ReactDOM.render(
   <BrowserRouter>
     <Provider store={store}>
+      <ErrBoundary>
       <App />
+      </ErrBoundary>
     </Provider>
   </BrowserRouter>,
   document.getElementById('root')
