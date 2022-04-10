@@ -22,3 +22,32 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/86910922/146680133-ea725f6f-7049-4886-a01c-ec051d2bd8a2.gif" width="429px" height="429px">&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/86910922/146680138-79e33fb9-22f3-4374-b28e-29569b637fd8.gif" width="429px" height="429px">
+
+### todotogether
+##### 아래를 사용하여 만들었음.
+- react, redux, router, sass, lazyLoad, styled-components, useMemo, throttle, component, restAPI, AWS(ec2), axios, babel/webpack ...etc
+
+[깃허브 저장소](https://github.com/akdrhtn1/todotogether)
+
+##### 로그인 (모바일, 데스크탑)
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 05" src="https://user-images.githubusercontent.com/86910922/149669909-53cb3cbf-8b2a-4fd3-a783-1d1163407945.png"> <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 57 23" src="https://user-images.githubusercontent.com/86910922/149669904-3eb7740f-9659-4bb7-b8ba-1f99183a3a4e.png">
+
+##### 회원가입 (모바일, 데스크탑)
+
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 20" src="https://user-images.githubusercontent.com/86910922/149669948-be2bd936-bf62-416e-a1d0-e5d0324b3e63.png"> <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 53 05" src="https://user-images.githubusercontent.com/86910922/149669949-46d133a1-18d6-47d0-82c4-02d06cf08abc.png">
+
+##### 나의활동페이지 (모바일, 데스크탑)
+
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 52 00" src="https://user-images.githubusercontent.com/86910922/149669977-5180e157-2a72-4f7e-b67f-bb66cd2038a0.png">
+
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 51 04" src="https://user-images.githubusercontent.com/86910922/149669982-835bb2e7-9ede-4854-9b64-a2635a2baa7a.png"> <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 50" src="https://user-images.githubusercontent.com/86910922/149670000-79cdb025-d9ac-4818-ac03-a6daa99c0f25.png">
+
+##### 회원탈퇴 (모바일, 데스크탑)
+
+<img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 10" src="https://user-images.githubusercontent.com/86910922/149670025-cae79536-cc43-4511-9af1-7346f9d9e8dd.png"> <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 1 50 28" src="https://user-images.githubusercontent.com/86910922/149670027-28932571-e209-4743-81c7-a00abda12953.png">
+
+##### 메인페이지 (모바일, 데스크탑)
+
+![KakaoTalk_Photo_2022-01-17-02-06-08](https://user-images.githubusercontent.com/86910922/149670139-79ccb5f3-4427-4133-bcb2-68dc990c7a24.gif)
+ <img width="429px" height="429px" alt="스크린샷 2022-01-17 오전 2 07 17" src="https://user-images.githubusercontent.com/86910922/149670169-5ee2d352-5441-4844-9f9f-23a8f2fc5302.png">
+
